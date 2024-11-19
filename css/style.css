@@ -6,7 +6,7 @@ h1 {
   color: #000000;
   text-align: center;  
   font-family: 'Roboto',sans-serif ;
-  margin: 0;
+  margin: 10px;
   padding: 20px;
   border-radius: 10px;
   box-shadow: 0 4px 8px black;
@@ -149,4 +149,11 @@ img{
     display: block;
     margin-left: auto;
     margin-right: auto
+}
+.card img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    height: auto;
 }
